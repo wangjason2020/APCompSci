@@ -28,12 +28,12 @@ public class Main {
         String flipped="";
         String original="";
 
-        for (int i=0; i==len; i++) {
-            if (a.charAt(i) == '.' || a.charAt(i) == ' ' || a.charAt(i) == ',' || a.charAt(i) == '?' || a.charAt(i) == '!' || a.charAt(i) == ':' || a.charAt(i) == ';') {
+        for (int j=0; j!=len; j++) {
+            if (a.charAt(j) == '.' || a.charAt(j) == ' ' || a.charAt(j) == ',' || a.charAt(j) == '?' || a.charAt(j) == '!' || a.charAt(j) == ':' || a.charAt(j) == ';') {
                 original += "";
             }
             else {
-                original += a.charAt(i);
+                original += a.charAt(j);
             }
         }
 
