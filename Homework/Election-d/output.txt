@@ -1,27 +1,26 @@
 President: 
-Mordy Golding: 750
-Shira Gotshalk: 700
-Stephanie Evans: 400
-Ray Villalobos: 650
+Mordy Golding: 71
+Shira Gotshalk: 61
+Stephanie Evans: 57
+Ray Villalobos: 60
 Mordy Golding won!
 
 Vice President: 
-Dona Sarkar: 800
-Tyler Ahn: 700
-Joe Camp: 450
-Brandon LeBlanc: 550
+Dona Sarkar: 68
+Tyler Ahn: 66
+Joe Camp: 59
+Brandon LeBlanc: 56
 Dona Sarkar won!
 
 Secretary: 
-Jason Howard: 750
-Nikki Rubino: 850
-Peggy Fisher: 400
-Neil Edde: 500
-Nikki Rubino won!
+Jason Howard: 67
+Nikki Rubino: 67
+Peggy Fisher: 54
+Neil Edde: 61
 
 Treasurer: 
-David Gassner: 450
-Sharon Bennett: 450
-Walt Ritscher: 900
-Heather Hurley: 700
+David Gassner: 62
+Sharon Bennett: 51
+Walt Ritscher: 69
+Heather Hurley: 67
 Walt Ritscher won!
