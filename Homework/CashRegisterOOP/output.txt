@@ -1,0 +1,3 @@
+75 units of Fuji Apples, are priced at 0.49, is not taxable, and is in our Produce department.
+75 units of Apricots, are priced at 0.39, is not taxable, and is in our Produce department.
+75 units of Bananas, are priced at 0.59, is taxable, and is in our Produce department.
