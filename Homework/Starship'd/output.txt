@@ -1,0 +1,31 @@
+Overall available fleet: 
+Reliant:   Hull: 1072   Shields: 2956   Beam Weapons: 2892   Torpedoes: 10
+Enterprise:   Hull: 1248   Shields: 2653   Beam Weapons: 2741   Torpedoes: 10
+Yorktown:   Hull: 1241   Shields: 2852   Beam Weapons: 2600   Torpedoes: 12
+Saratoga:   Hull: 1165   Shields: 3479   Beam Weapons: 2925   Torpedoes: 13
+Voyager:   Hull: 1159   Shields: 3266   Beam Weapons: 2550   Torpedoes: 10
+Discovery:   Hull: 1964   Shields: 2144   Beam Weapons: 3061   Torpedoes: 24
+Constitution:   Hull: 1895   Shields: 2384   Beam Weapons: 3254   Torpedoes: 26
+Constellation:   Hull: 1694   Shields: 2316   Beam Weapons: 3494   Torpedoes: 27
+Grissom:   Hull: 1881   Shields: 2460   Beam Weapons: 2616   Torpedoes: 21
+Defiant:   Hull: 1864   Shields: 2132   Beam Weapons: 3271   Torpedoes: 24
+Intrepid:   Hull: 2108   Shields: 2264   Beam Weapons: 3042   Torpedoes: 22
+Britaan:   Hull: 2196   Shields: 2391   Beam Weapons: 3195   Torpedoes: 31
+Stargazer:   Hull: 2035   Shields: 2239   Beam Weapons: 3974   Torpedoes: 35
+Yamato:   Hull: 2138   Shields: 2198   Beam Weapons: 3224   Torpedoes: 31
+Galaxy:   Hull: 2262   Shields: 2223   Beam Weapons: 3954   Torpedoes: 32
+Ambassador:   Hull: 3963   Shields: 1979   Beam Weapons: 4214   Torpedoes: 45
+Nimitz:   Hull: 4664   Shields: 1996   Beam Weapons: 4809   Torpedoes: 47
+Equinox:   Hull: 4351   Shields: 1746   Beam Weapons: 4727   Torpedoes: 42
+Relativity:   Hull: 4824   Shields: 1634   Beam Weapons: 4200   Torpedoes: 46
+Challenger:   Hull: 4125   Shields: 1876   Beam Weapons: 4244   Torpedoes: 50
+Defense Batallion: 
+Reliant:   Hull: 1072   Shields: 2956   Beam Weapons: 2892   Torpedoes: 10
+Enterprise:   Hull: 1248   Shields: 2653   Beam Weapons: 2741   Torpedoes: 10
+Yorktown:   Hull: 1241   Shields: 2852   Beam Weapons: 2600   Torpedoes: 12
+Saratoga:   Hull: 1165   Shields: 3479   Beam Weapons: 2925   Torpedoes: 13
+Offense Batallion: 
+Intrepid:   Hull: 2108   Shields: 2264   Beam Weapons: 3042   Torpedoes: 22
+Britaan:   Hull: 2196   Shields: 2391   Beam Weapons: 3195   Torpedoes: 31
+Stargazer:   Hull: 2035   Shields: 2239   Beam Weapons: 3974   Torpedoes: 35
+Yamato:   Hull: 2138   Shields: 2198   Beam Weapons: 3224   Torpedoes: 31
